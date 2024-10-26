@@ -1,6 +1,6 @@
 </ul><h1>Ubuntu 24.04 Kurulum Rehberi</h1>
 
-<p>Bu rehber, Ubuntu 24.04'ün nasıl kurulacağını adım adım açıklamaktadır. Her adımın ekran görüntüsünü eklemeyi unutmayın ve aşağıda belirtilen adımların sırasını takip edin.</p>
+<p>Bu rehber, Ubuntu 24.04'ün nasıl kurulacağını adım adım açıklamaktadır. Kurulum için aşağıda belirtilen adımların sırasını takip ediniz.</p>
 
 <h2>Gereksinimler</h2>
 <ul>
