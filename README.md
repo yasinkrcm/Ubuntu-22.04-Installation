@@ -76,7 +76,7 @@
             Etkileşimli seçenek standart yol olarak kabul edilir, ancak daha deneyimli kullanıcılar, 
             bir web sunucusundan bir yapılandırma dosyası ithal ederek birden fazla kurulumu standart 
             hale getirmek ve ek özelleştirmeler eklemek için otomatik kurulum seçeneğini kullanabilirler
-            Otomatik kurulum için bir örnek eğitim  mevcuttur.
+            Otomatik kurulum için bir örnek eğitim.
             <a href="https://blog.local-optimum.net/getting-started-with-autoinstall-on-ubuntu-desktop-24-04-lts-147a1defb2de"> burada</a> mevcuttur.</li>
             <img src="screenshots/Default Selection.jpg" alt="">
             <li>
