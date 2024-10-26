@@ -6,7 +6,7 @@
 <ul>
     <li>A blank USB drive (at least 4 GB)</li>
     <li>Ubuntu 24.04 ISO file (downloadable from the <a href="https://ubuntu.com/download">official Ubuntu website</a>)</li>
-    <li>A USB writing tool such as Rufus or balenaEtcher</li>
+    <li>A USB writing tool such as Rufus (downloadable from the <a href="https://rufus.ie/en/"> Offical Rufus website </a>) </li>
 </ul>
 
 <h2>Step 1: Download the Ubuntu ISO File</h2>
