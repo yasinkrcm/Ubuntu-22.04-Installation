@@ -1,54 +1,54 @@
-<h1>Ubuntu 24.04 Installation Guide</h1>
+</ul><h1>Ubuntu 24.04 Kurulum Rehberi</h1>
 
-<p>This guide provides step-by-step instructions on how to install Ubuntu 24.04. Make sure to include screenshots for each step and follow the sequence outlined below.</p>
+<p>Bu rehber, Ubuntu 24.04'ün nasıl kurulacağını adım adım açıklamaktadır. Her adımın ekran görüntüsünü eklemeyi unutmayın ve aşağıda belirtilen adımların sırasını takip edin.</p>
 
-<h2>Requirements</h2>
+<h2>Gereksinimler</h2>
 <ul>
-    <li>A blank USB drive (at least 4 GB)</li>
-    <li>Ubuntu 24.04 ISO file (downloadable from the <a href="https://ubuntu.com/download">official Ubuntu website</a>)</li>
-    <li>A USB writing tool such as Rufus (downloadable from the <a href="https://rufus.ie/en/"> Offical Rufus website </a>) </li>
+    <li>Boş bir USB sürücü (en az 4 GB)</li>
+    <li>Ubuntu 24.04 ISO dosyası (Ubuntu'nun <a href="https://ubuntu.com/download">resmi web sitesinden</a> indirilebilir)</li>
+    <li>Rufus (Rufus'un <a href="https://rufus.ie/tr/">resmi web sitesinden</a> indirilebilir)</li>
 </ul>
 
-<h2>Step 1: Download the Ubuntu ISO File</h2>
-<p>Go to the <a href="https://ubuntu.com/download">official Ubuntu download page</a> and download the Ubuntu 24.04 version.</p>
-<!-- Screenshot 1: Ubuntu download page -->
-<img src="screenshots/ubuntu-download.png" alt="Ubuntu download page">
+<h2>1. Adım: Ubuntu ISO Dosyasını İndirin</h2>
+<p>Ubuntu'nun <a href="https://ubuntu.com/download">resmi indirme sayfasına</a> gidin ve Ubuntu 24.04 sürümünü indirin.</p>
+<!-- Screenshot 1: Ubuntu indirme sayfası -->
+<img src="screenshots/ubuntu-download.png" alt="Ubuntu indirme sayfası">
 
-<h2>Step 2: Write the ISO to the USB Drive</h2>
-<p>Use a USB writing tool like Rufus or balenaEtcher to write the downloaded ISO file to your USB drive.</p>
-<!-- Screenshot 2: Using Rufus or balenaEtcher to write the ISO -->
-<img src="screenshots/rufus-setup.png" alt="Writing the ISO file to USB with Rufus">
+<h2>2. Adım: USB Sürücüsüne Yazdırın</h2>
+<p>İndirdiğiniz ISO dosyasını bir USB yazma aracı ile USB sürücüsüne yazdırın.</p>
+<!-- Screenshot 2: Rufus veya balenaEtcher yazılımının kullanımı -->
+<img src="screenshots/rufus-setup.png" alt="Rufus ile ISO dosyasını USB'ye yazdırma">
 
-<h2>Step 3: Boot from the USB Drive</h2>
-<p>Insert the USB drive into your computer and configure the BIOS/UEFI settings to boot from the USB.</p>
-<!-- Screenshot 3: BIOS/UEFI settings -->
-<img src="screenshots/bios-setup.png" alt="BIOS/UEFI settings">
+<h2>3. Adım: Bilgisayarınızı USB'den Başlatın</h2>
+<p>USB sürücüsünü bilgisayara takın ve bilgisayarınızı USB'den başlatmak için BIOS/UEFI ayarlarını yapılandırın.</p>
+<!-- Screenshot 3: BIOS/UEFI ayarları -->
+<img src="screenshots/bios-setup.png" alt="BIOS/UEFI ayarları">
 
-<h2>Step 4: Installation Options</h2>
-<p>When the Ubuntu installer loads, select the "Install Ubuntu" option.</p>
-<!-- Screenshot 4: Install Ubuntu option -->
-<img src="screenshots/install-ubuntu.png" alt="Install Ubuntu screen">
+<h2>4. Adım: Kurulum Seçenekleri</h2>
+<p>Ubuntu yükleyicisi açıldığında, "Install Ubuntu" seçeneğini seçin.</p>
+<!-- Screenshot 4: Install Ubuntu seçeneği -->
+<img src="screenshots/install-ubuntu.png" alt="Install Ubuntu ekranı">
 
-<h2>Step 5: Set Language and Keyboard</h2>
-<p>Choose the preferred language and keyboard layout during the installation.</p>
-<!-- Screenshot 5: Language and keyboard settings -->
-<img src="screenshots/language-keyboard-setup.png" alt="Language and keyboard settings">
+<h2>5. Adım: Dil ve Klavye Ayarlarını Yapın</h2>
+<p>Kurulum sırasında dil ve klavye düzenini seçin.</p>
+<!-- Screenshot 5: Dil ve klavye ayarları -->
+<img src="screenshots/language-keyboard-setup.png" alt="Dil ve klavye ayarları">
 
-<h2>Step 6: Disk Partitioning</h2>
-<p>Select the disk partition where you want to install Ubuntu, or choose a custom installation.</p>
-<!-- Screenshot 6: Disk partitioning screen -->
-<img src="screenshots/disk-partitioning.png" alt="Disk partitioning">
+<h2>6. Adım: Disk Bölümlendirme</h2>
+<p>Ubuntu'yu yüklemek istediğiniz disk bölümünü seçin veya özel bir kurulum yapın.</p>
+<!-- Screenshot 6: Disk bölümlendirme ekranı -->
+<img src="screenshots/disk-partitioning.png" alt="Disk bölümlendirme">
 
-<h2>Step 7: Start the Installation</h2>
-<p>After completing all the settings, start the installation and wait for it to finish.</p>
-<!-- Screenshot 7: Installation progress screen -->
-<img src="screenshots/installation-progress.png" alt="Installation progress">
+<h2>7. Adım: Kurulumu Başlatın</h2>
+<p>Tüm ayarları tamamladıktan sonra kurulumu başlatın ve bitmesini bekleyin.</p>
+<!-- Screenshot 7: Kurulum ilerleme ekranı -->
+<img src="screenshots/installation-progress.png" alt="Kurulum ilerlemesi">
 
-<h2>Step 8: Installation Complete</h2>
-<p>Once the installation is complete, restart your computer.</p>
-<!-- Screenshot 8: Installation complete screen -->
-<img src="screenshots/installation-complete.png" alt="Installation complete">
+<h2>8. Adım: Kurulum Tamamlandı</h2>
+<p>Kurulum tamamlandıktan sonra bilgisayarınızı yeniden başlatın.</p>
+<!-- Screenshot 8: Kurulum tamamlandı ekranı -->
+<img src="screenshots/installation-complete.png" alt="Kurulum tamamlandı">
 
 <hr>
 
-<p>Place the screenshots in the <code>screenshots</code> folder and link them to the respective steps in the guide.</p>
+<p>Ekran görüntülerini <code>screenshots</code> klasörüne koyarak ilgili adımlara ekleyebilirsiniz.</p>
