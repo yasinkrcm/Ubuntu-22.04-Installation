@@ -13,7 +13,7 @@
 <h2>Kurulum Aşamaları</h2>
     <h2>Ubuntu ISO Dosyasını İndirin</h2>
     <ul>
-        <li>Ubuntu'nun <a href="https://ubuntu.com/download">resmi indirme sayfasına</a></li>
+        <li>Ubuntu'nun <a href="https://ubuntu.com/download">resmi indirme sayfası</a></li>
         <img src="screenshots/Ubuntu Download Page .jpg" alt="Ubuntu indirme sayfası">
         <li>Bu sayfadan "Download Ubuntu Desktop" seçeneğine basıyoruz.</li>
         <img src="screenshots/Ubuntu Desktop.jpg" alt="Ubuntu Desktop Download sayfası">
